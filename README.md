@@ -1,4 +1,4 @@
->**Warning!** The standalone Radar API client is deprecated, and this documenation is obsolete.  The standard Radar tag now supports a public API that can be used to run Radar sessions and submit Impact reports.  Visit the [radar.js repo on Github](https://github.com/cedexis/radar.js#api) to learn more.
+>**Warning!** The standalone Radar API client is deprecated, and this documenation is obsolete.  The standard Radar tag now supports a public API that can be used to run Radar sessions and submit Impact reports.  Visit https://github.com/cedexis/radar.js#api to learn more.
 
 # Radar JavaScript API
 
